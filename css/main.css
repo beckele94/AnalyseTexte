@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    color: wheat;
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1{
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+    padding-top: 30px;
+}
+
+textarea{
+
+}
+
+
